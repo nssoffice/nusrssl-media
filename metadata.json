@@ -1,0 +1,6 @@
+{
+  "name": "নিরাপদ উন্নয়ন সমবায় সমিতি (NUSRSSL)",
+  "description": "Cooperative Society Management System & Digital Passbook Portal for Nirapad Unnayan Sanchay O Rindan Samabay Samity (NUSRSSL)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
